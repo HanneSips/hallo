@@ -1,0 +1,3 @@
+[submodule "startbootstrap-grayscale"]
+	path = startbootstrap-grayscale
+	url = https://github.com/StartBootstrap/startbootstrap-grayscale.git
