@@ -1,5 +1,5 @@
 import {width, height, MAX_X, MAX_Y, MAX_Z, tool_wrapper, toolbox} from "./globals.js"
-import Vertex from "./Vertex.js";
+import Vertex from "./vertex.js";
 
 let polygonTurn = false;
 let lightSlide = false
