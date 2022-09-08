@@ -1,7 +1,7 @@
 import { MAX_X, MAX_Y } from "./globals.js";
-import Vertex from "./Vertex.js";
+import Vertex from "./vertex.js";
 import Plane from "./plane.js";
-
+//test
 export default class Projection {
     constructor(polyhedron, projectionPlane, lightSource) {
         this.polyhedron = polyhedron;
